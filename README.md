@@ -1,4 +1,4 @@
-# Binary Option Trading
+# Binary Options Trading
 
-Implement binary option trading system by using time series model
+Implement binary options trading system by using time series model
 
